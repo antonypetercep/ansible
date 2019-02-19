@@ -1,0 +1,8 @@
+---
+# tasks file for webserver
+
+- include: installhttp.yaml
+- include: configurehttp.yaml
+- include: copyscript.yaml
+- include: script.yaml
+

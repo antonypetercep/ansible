@@ -1,0 +1,5 @@
+---
+# vars file for webserver
+   myname: Antony
+   FQDN: "{{ ansible_hostname }}"
+   PORT: 8080

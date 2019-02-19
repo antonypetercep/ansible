@@ -1,0 +1,4 @@
+- name: "Running the dummy scripts"
+  shell: /tmp/dummy.sh
+  args:
+    executable: /bin/bash 

@@ -1,0 +1,2 @@
+- name: "Copy the script"
+  copy: src=dummy.sh dest=/tmp/dummy.sh
